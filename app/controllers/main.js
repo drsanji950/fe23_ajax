@@ -80,7 +80,7 @@ $(document).ready(function () {
         $("#SoDienThoai").val(nguoiDung.SoDT);
         $("#loaiNguoiDung").val(nguoiDung.MaLoaiNguoiDung);
     })
-
+    // cập nhật người dùng
     $("body").delegate('.btnCapNhat', 'click', function(){
         var taiKhoan = $("#TaiKhoan").val();
         var hoTen = $("#HoTen").val();
