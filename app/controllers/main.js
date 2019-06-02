@@ -94,6 +94,8 @@ $(document).ready(function () {
 
     })
 
+    function taoBranchthdan (){}
+
 });
 
 function resetBtn(title, btn, btnName) {
