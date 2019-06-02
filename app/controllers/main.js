@@ -96,7 +96,9 @@ $(document).ready(function () {
 
     function taoBranchthdan (){}
 
-    function timkiemmmmmm(){}
+    function timkiemmmmmm(){
+        console("alooo");
+    }
 
 });
 
