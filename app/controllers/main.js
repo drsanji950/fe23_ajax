@@ -96,6 +96,8 @@ $(document).ready(function () {
 
     function taoBranchthdan (){}
 
+    function timkiemmmmmm(){}
+
 });
 
 function resetBtn(title, btn, btnName) {
